@@ -19,7 +19,7 @@ The network admin
 - Tôi mở tool Burpsuite, mở trình duyệt và truy cập theo URL http://challenge01.root-me.org/web-serveur/ch68/
 
 ![image](https://github.com/duwdapoet/thuc-hanh-http/assets/131479672/5ff4cefa-8f2c-49b0-ac48-d445ae810e6b)
-- Tiếp đến, tôi mở Proxy Setting và tìm mục Match and replace rules. Sau đó tôi thêm một rule mới tùy chỉnh như sau:
+- Tiếp đến, tôi mở Proxy Setting và tìm mục Match and replace rules. Sau đó tôi thêm một rule mới với tùy chỉnh như sau:
 
 ![image](https://github.com/duwdapoet/thuc-hanh-http/assets/131479672/309b229f-582f-4e94-be24-8b7ba44ff7e1)
 
