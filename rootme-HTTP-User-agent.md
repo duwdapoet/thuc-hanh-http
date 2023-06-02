@@ -20,6 +20,6 @@ Khi truy cập, website cho tôi thông tin: Wrong user-agent: you are not the "
 
 ![image](https://github.com/duwdapoet/thuc-hanh-http/assets/131479672/0818ffb9-21f1-46b1-a0bb-e9f87d09822d)
 
-- Đem đi submit thì tôi nhận được 10 điểm.
+- Đem đi submit thì tôi có được 10 điểm.
 
 ![image](https://github.com/duwdapoet/thuc-hanh-http/assets/131479672/adc893f2-68d1-4720-a4fa-669e008462fa)
